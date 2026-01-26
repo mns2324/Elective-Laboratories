@@ -1,1 +1,8 @@
+The purpose of this app is to provide a centralized platform to store important academic files such as presentation/videos 
+or backups of important submissions. The target users for this app are students, however, teachers and administrators could 
+also make use of this app for their own files. I chose this specific layout as it is a common layout with applications (header,
+sidebar on the left and the main content on the remaining space). As for the colors, I referenced them from the colors of my own
+color palette, making slight deviations to account for contrast and hierarchy. The one challenge I faced was starting the creation
+of the layout as it was difficult to imagine without using references. Some improvements I would do is adding more screens to the 
+prototype to account for certain features I didn't elaborate on in my current prototype.
 
